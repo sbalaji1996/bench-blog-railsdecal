@@ -1,0 +1,293 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"diff",
+				"diffAndMul"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/srinandbalaji/cs198/benchblog/blog/Gemfile",
+		"/Users/srinandbalaji/cs198/benchblog/blog/app/views/devise/registrations/edit.html.erb",
+		"/Users/srinandbalaji/cs198/benchblog/blog/app/views/devise/registrations/new.html.erb",
+		"/Users/srinandbalaji/cs198/benchblog/blog/app/views/pages/home.html.erb",
+		"/Users/srinandbalaji/cs198/benchblog/blog/db/schema.rb",
+		"/Users/srinandbalaji/cs198/benchblog/blog/app/models/post.rb",
+		"/Users/srinandbalaji/cs198/benchblog/blog/app/views/posts/_post.html.erb",
+		"/Users/srinandbalaji/cs198/benchblog/blog/app/views/posts/new.html.erb",
+		"/Users/srinandbalaji/cs198/benchblog/blog/app/views/posts/show.html.erb",
+		"/Users/srinandbalaji/cs198/benchblog/blog/db/seeds.rb",
+		"/Users/srinandbalaji/cs198/benchblog/blog/app/controllers/posts_controller.rb",
+		"/Users/srinandbalaji/cs198/benchblog/blog/app/controllers/application_controller.rb",
+		"/Users/srinandbalaji/cs198/benchblog/blog/db/migrate/20160422201422_remove_admin_from_users.rb",
+		"/Users/srinandbalaji/cs198/benchblog/blog/db/migrate/20160422194555_remove_place_from_posts.rb",
+		"/Users/srinandbalaji/cs198/benchblog/blog/db/migrate/20160422192019_add_admin_to_users.rb",
+		"/Users/srinandbalaji/cs198/benchblog/blog/config/initializers/simple_form.rb",
+		"/Users/srinandbalaji/cs198/benchblog/blog/app/assets/stylesheets/foundation_and_overrides.scss",
+		"/Users/srinandbalaji/cs198/benchblog/blog/app/models/user.rb",
+		"/Users/srinandbalaji/cs198/benchblog/blog/db/migrate/20160422191233_create_posts.rb",
+		"/Users/srinandbalaji/cs198/benchblog/blog/db/migrate/20160422192005_add_like_to_posts.rb",
+		"/Users/srinandbalaji/cs198/benchblog/blog/db/migrate/20160422195016_add_sport_to_posts.rb",
+		"/Users/srinandbalaji/cs198/benchblog/blog/db/migrate/20160422191626_remove_location_from_posts.rb",
+		"/Users/srinandbalaji/cs198/benchblog/blog/db/migrate/20160422191542_add_locationto_posts.rb",
+		"/Users/srinandbalaji/cs198/benchblog/blog/db/migrate/20160422194638_add_sport_to_posts.rb",
+		"/Users/srinandbalaji/cs198/benchblog/blog/db/migrate/20160422192327_change_liked_commentsand_posts_type.rb",
+		"/Users/srinandbalaji/cs198/benchblog/blog/db/migrate/20160422190907_create_blogs.rb",
+		"/Users/srinandbalaji/cs198/benchblog/blog/db/migrate/20160422191257_add_userto_blog.rb",
+		"/Users/srinandbalaji/cs198/benchblog/blog/db/migrate/20160422191334_add_blogto_post.rb",
+		"/Users/srinandbalaji/cs198/benchblog/blog/db/migrate/20160422191348_devise_create_users.rb",
+		"/Users/srinandbalaji/cs198/benchblog/blog/db/migrate/20160422191400_add_nameto_users.rb",
+		"/Users/srinandbalaji/cs198/benchblog/blog/db/migrate/20160422191406_create_comments.rb",
+		"/Users/srinandbalaji/cs198/benchblog/blog/db/migrate/20160422191424_fix_column_name.rb",
+		"/Users/srinandbalaji/cs198/benchblog/blog/db/migrate/20160422191452_remove_field_from_posts.rb",
+		"/Users/srinandbalaji/cs198/benchblog/blog/db/migrate/20160422191559_add_placeto_posts.rb",
+		"/Users/srinandbalaji/cs198/benchblog/blog/db/migrate/20160422191717_change_column_name.rb",
+		"/Users/srinandbalaji/cs198/benchblog/blog/db/migrate/20160422191808_add_post_id_to_comments.rb",
+		"/Users/srinandbalaji/cs198/benchblog/blog/db/migrate/20160422191852_add_name_to_users.rb",
+		"/Users/srinandbalaji/cs198/benchblog/blog/db/migrate/20160422191906_modify_column_name.rb",
+		"/Users/srinandbalaji/cs198/benchblog/blog/db/migrate/20160422191947_add_like_to_comments.rb",
+		"/Users/srinandbalaji/cs198/benchblog/blog/db/migrate/20160422192049_add_liked_posts_to_user.rb",
+		"/Users/srinandbalaji/cs198/benchblog/blog/db/migrate/20160422192150_remove_liked_posts_from_user.rb",
+		"/Users/srinandbalaji/cs198/benchblog/blog/app/views/pages/about.html.erb",
+		"/Users/srinandbalaji/cs198/benchblog/blog/app/views/layouts/hold.html.erb",
+		"/Users/srinandbalaji/cs198/benchblog/blog/app/views/layouts/application.html.erb",
+		"/Users/srinandbalaji/cs198/benchblog/blog/app/views/layouts/_navigation.html.erb",
+		"/Users/srinandbalaji/cs198/benchblog/blog/app/views/layouts/_messages.html.erb",
+		"/Users/srinandbalaji/cs198/benchblog/blog/app/views/comments/new.html.erb",
+		"/Users/srinandbalaji/cs198/benchblog/blog/app/views/comments/_comment.html.erb",
+		"/Users/srinandbalaji/cs198/benchblog/blog/app/models/comment.rb",
+		"/Users/srinandbalaji/cs198/benchblog/blog/app/models/blog.rb",
+		"/Users/srinandbalaji/cs198/benchblog/blog/app/controllers/pages_controller.rb",
+		"/Users/srinandbalaji/cs198/benchblog/blog/app/controllers/comments_controller.rb",
+		"/Users/srinandbalaji/cs198/benchblog/blog/db/migrate/20150422042230_create_blogs.rb",
+		"/Users/srinandbalaji/cs198/benchblog/blog/db/migrate/20160418163943_change_column_name.rb",
+		"/Users/srinandbalaji/cs198/bench-blog/db/schema.rb",
+		"/Users/srinandbalaji/cs198/benchblog/blog/app/views/layouts/_navigation_links.html.erb",
+		"/Users/srinandbalaji/cs198/benchblog/blog/app/views/layouts/just to hold onto.html.erb",
+		"/Users/srinandbalaji/Desktop/TravelBlogRailsProj2-master/app/views/layouts/application.html.erb",
+		"/Users/srinandbalaji/Desktop/TravelBlogRailsProj2-master/app/views/layouts/_navigation_links.html.erb",
+		"/Users/srinandbalaji/Desktop/TravelBlogRailsProj2-master/app/views/layouts/_navigation.html.erb",
+		"/Users/srinandbalaji/Desktop/TravelBlogRailsProj2-master/app/views/layouts/_messages.html.erb",
+		"/Users/srinandbalaji/Desktop/TravelBlogRailsProj2-master/app/views/posts/new.html.erb",
+		"/Users/srinandbalaji/Desktop/TravelBlogRailsProj2-master/app/controllers/application_controller.rb",
+		"/Users/srinandbalaji/Desktop/TravelBlogRailsProj2-master/app/controllers/comments_controller.rb",
+		"/Users/srinandbalaji/Desktop/TravelBlogRailsProj2-master/app/controllers/pages_controller.rb",
+		"/Users/srinandbalaji/Desktop/TravelBlogRailsProj2-master/app/controllers/posts_controller.rb",
+		"/Users/srinandbalaji/Desktop/TravelBlogRailsProj2-master/app/views/layouts/just to hold onto.html.erb",
+		"/Users/srinandbalaji/Desktop/TravelBlogRailsProj2-master/app/views/pages/about.html.erb",
+		"/Users/srinandbalaji/Desktop/TravelBlogRailsProj2-master/app/views/pages/home.html.erb",
+		"/Users/srinandbalaji/Desktop/TravelBlogRailsProj2-master/app/views/posts/_post.html.erb",
+		"/Users/srinandbalaji/cs198/bench-blog/app/models/sport.rb",
+		"/Users/srinandbalaji/Desktop/TravelBlogRailsProj2-master/app/models/post.rb",
+		"/Users/srinandbalaji/cs198/bench-blog/app/assets/stylesheets/comments.css.scss",
+		"/Users/srinandbalaji/cs198/bench-blog/app/assets/stylesheets/application.css.scss",
+		"/Users/srinandbalaji/cs198/bench-blog/app/assets/stylesheets/landing.css",
+		"/Users/srinandbalaji/cs198/bench-blog/app/assets/stylesheets/foundation_and_overrides.scss",
+		"/Users/srinandbalaji/cs198/bench-blog/app/views/layouts/application.html.erb",
+		"/Users/srinandbalaji/cs198/bench-blog/app/assets/stylesheets/foundation.css",
+		"/Users/srinandbalaji/cs198/bench-blog/Gemfile",
+		"/Users/srinandbalaji/cs198/bench-blog/app/assets/stylesheets/foundation_and_override.scss",
+		"/Users/srinandbalaji/cs198/bench-blog/app/assets/stylesheets/application.css",
+		"/Users/srinandbalaji/cs198/bench-blog/app/assets/stylesheets/foundation.scss",
+		"/Users/srinandbalaji/cs198/bench-blog/app/views/pages/home.html.erb",
+		"/Users/srinandbalaji/cs198/bench-blog/app/views/posts/_post.html.erb",
+		"/Users/srinandbalaji/cs198/bench-blog/app/views/posts/new.html.erb",
+		"/Users/srinandbalaji/cs198/bench-blog/app/views/posts/show.html.erb",
+		"/Users/srinandbalaji/cs198/bench-blog/app/views/comments/_comment.html.erb",
+		"/Users/srinandbalaji/cs198/bench-blog/app/views/comments/new.html.erb",
+		"/Users/srinandbalaji/cs198/bench-blog/app/controllers/posts_controller.rb",
+		"/Users/srinandbalaji/cs198/bench-blog/app/controllers/pages_controller.rb",
+		"/Users/srinandbalaji/cs198/bench-blog/app/controllers/comments_controller.rb",
+		"/Users/srinandbalaji/cs198/bench-blog/app/controllers/application_controller.rb",
+		"/Users/srinandbalaji/cs198/bench-blog/app/models/user.rb",
+		"/Users/srinandbalaji/cs198/bench-blog/app/models/post.rb",
+		"/Users/srinandbalaji/cs198/bench-blog/app/models/comment.rb",
+		"/Users/srinandbalaji/cs198/bench-blog/config/routes.rb",
+		"/Users/srinandbalaji/cs198/bench-blog/config/environments/development.rb",
+		"/Users/srinandbalaji/cs198/bench-blog/app/controllers/pages_controller",
+		"/Users/srinandbalaji/Desktop/test/moss.pl",
+		"/Users/srinandbalaji/Desktop/DocWordCount.java",
+		"/Users/srinandbalaji/Desktop/index.py",
+		"/Users/srinandbalaji/Desktop/docwordcount.py",
+		"/Users/srinandbalaji/cs61c/proj4-ip/calcDepthNaive.c",
+		"/Users/srinandbalaji/Desktop/temp/three.c",
+		"/Users/srinandbalaji/cs61c/proj4-ip/calcDepthOptimized.c",
+		"/Users/srinandbalaji/cs61c/proj4-ip/calcDepthOptimized.sublime-workspace",
+		"/Users/srinandbalaji/Desktop/hello.py",
+		"/Users/srinandbalaji/cs61c/proj4-ip/calcDepthOptimized.h",
+		"/Users/srinandbalaji/cs61c/proj4-ip/calcDepthNaive.h",
+		"/Users/srinandbalaji/cs61c/lab07/matrixMultiply.c",
+		"/Users/srinandbalaji/cs61c/lab07/transpose.c",
+		"/Users/srinandbalaji/cs61c/09/answers",
+		"/Users/srinandbalaji/cs61c/09/sseTest.s",
+		"/Users/srinandbalaji/cs61c/09/sseTest.c",
+		"/Users/srinandbalaji/cs61c/09/sum.c",
+		"/Users/srinandbalaji/cs198/proj1/app/models/pokemon.rb",
+		"/Users/srinandbalaji/cs198/proj1/app/controllers/pokemons_controller.rb",
+		"/Users/srinandbalaji/cs198/proj1/app/assets/stylesheets/application.css.scss",
+		"/Users/srinandbalaji/cs198/proj1/app/controllers/application_controller.rb"
+	],
+	"find":
+	{
+		"height": 25.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"travel",
+			"//new",
+			"//new ",
+			"//same",
+			" ",
+			"new"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 25.0
+	},
+	"input":
+	{
+		"height": 33.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "post.sublime-project",
+	"replace":
+	{
+		"height": 46.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 274.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
