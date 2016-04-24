@@ -16,7 +16,7 @@ Models and Description:
 	
 	Comment: has text and belongs to a designated User
 	
-	Sport: Exists as  a tag, posts will be under their designated sport
+	Blog: has many posts and belongs to a designated User
 
 Features:
 
