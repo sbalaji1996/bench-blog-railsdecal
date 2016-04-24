@@ -30,8 +30,8 @@ Division of Labor:
 
 	Abhishek: user model, users controller, html design, css design
 	
-	Amrith: post model, posts controller, sports model, css design
+	Amrith: post model, posts controller, pages model, screencast
 	
-	Aneesh: comments model, comments controller, sports controller
+	Aneesh: comments model, comments controller, pages controller
 	
-	Srinand: views, html design, implementation of gems, work with screencast
+	Srinand: views, migrations, html design, implementation of gems
