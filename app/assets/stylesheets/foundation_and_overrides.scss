@@ -40,7 +40,8 @@
 
 //overide for div on home
 .posts{
-  color: grey;
+  background-color: orange;
+  color: black;
   border: 1px solid grey;
   border-top-style: none;
   border-left-style: none;
@@ -57,7 +58,8 @@
 
 //overrides for certain paragraph elements
 .poster{
-  font-size: small;
+  font-size: medium;
+  font-family: "Vivaldi";
   margin-bottom: 10px;
   margin-top: 5px;
 }
@@ -78,7 +80,7 @@
 
 #comment1{
   border: 1px solid transparent;
-  background-color: #d4e7e8;
+  background-color: #ff7b9c;
   width: 350px;
   overflow:hidden;
   margin-bottom: -22px;

@@ -3,6 +3,13 @@
 	<h1> Bench Blog </h1>
 </div>
 
+<%= form_tag(posts_path, :method => "get", id: "search-form") do %>
+<%= text_field_tag :search, params[:search], placeholder: "Search Posts" %>
+<%= submit_tag "Search" %>
+<% end %>
+
+
+
 <div id="nav">
 	<a> <%= button_to "About", about_path, :class => "button tiny", :method => :get %> </a>
 	<a> <%= button_to "New Post", new_post_path, :class => "button tiny", :method => :get %> </a>
@@ -10,7 +17,10 @@
 
 <div id="section">
 	<p> Welcome to BenchBlog! </p> 
-		<% @posts.each do |post| %>
-			<%= render "posts/post", :post => post %> 
+		<% if @posts.present? %>
+		  <%= render @posts %>
+		<% else %>
+		  <p>There are no posts containing the term(s) <%= params[:search] %>.</p>
 		<% end %>
+
 </div>
