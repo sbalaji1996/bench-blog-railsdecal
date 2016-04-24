@@ -3,12 +3,10 @@
 	<h1> Bench Blog </h1>
 </div>
 
-<%= form_tag(posts_path, :method => "get", id: "search-form") do %>
+<%= form_tag(root_path, :method => "get", id: "search-form") do %>
 <%= text_field_tag :search, params[:search], placeholder: "Search Posts" %>
 <%= submit_tag "Search" %>
 <% end %>
-
-
 
 <div id="nav">
 	<a> <%= button_to "About", about_path, :class => "button tiny", :method => :get %> </a>
