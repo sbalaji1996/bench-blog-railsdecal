@@ -35,18 +35,22 @@
 //override for new post
 .form .button-to{
   color: white;
-  background-color: 33cc99;
+  background-color: #33cc99;
 }
 
 //overide for div on home
 .posts{
-  background-color: orange;
+  background-color: #33cc99;
   color: black;
   border: 1px solid grey;
   border-top-style: none;
   border-left-style: none;
   border-right-style: none;
   width: 500px;
+  padding-left: 5px;
+  padding-bottom: 3px;
+  padding-top: 3px;
+  padding-right: 3px;
 }
 
 #postL{

@@ -14,15 +14,7 @@ Rails.application.routes.draw do
 
   patch "like_post", to: "posts#like_post"
 
-  patch "unlike_post", to: "posts#unlike_post"
-
   patch "like_comment", to: "comments#like_comment"
-
-  patch "unlike_comment", to: "comments#unlike_comment"
-
-  #resources :posts do
-  	#resources :comments
-  #end
 
   resources :users, :blogs, :posts
 
