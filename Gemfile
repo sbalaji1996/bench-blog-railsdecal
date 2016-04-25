@@ -4,7 +4,9 @@ gem 'capybara'
 gem 'simple_form'
 gem 'devise'
 gem 'foundation-rails', '5.4.5'
+
 #gem 'foundation-rails'
+
 group :development do
   gem "better_errors"
   gem 'binding_of_caller'
@@ -15,6 +17,7 @@ group :production do
   gem 'rails_12factor'
 end
 # Bundle edge Rails instead: gem 'rails', github: 'rails/rails'
+
 gem 'rails', '4.2.0'
 
 #gem 'rails', '4.1.6'
