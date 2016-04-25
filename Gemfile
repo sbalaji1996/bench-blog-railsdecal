@@ -8,7 +8,7 @@ gem 'foundation-rails'
 group :development do
   gem "better_errors"
   gem 'binding_of_caller'
-  gem 'pg'
+  gem 'sqlite3'
 end
 group :production do
   gem 'pg'
