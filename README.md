@@ -22,7 +22,7 @@ Features:
 
 	Users can log in
 	
-	Users can comment on blogs
+	Users can comment on blogs and use the like feature
 	
 	Blogs will be siphoned into specific sections, based on their sport
 
