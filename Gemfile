@@ -1,10 +1,10 @@
 source 'https://rubygems.org'
-ruby "2.2.0"
 
 gem 'capybara'
 gem 'simple_form'
 gem 'devise'
-gem 'foundation-rails'
+gem 'foundation-rails', '5.4.5'
+#gem 'foundation-rails'
 group :development do
   gem "better_errors"
   gem 'binding_of_caller'
@@ -50,3 +50,5 @@ gem 'spring',     group: :development
 
 # Use debugger
 # gem 'debugger', group: [:development, :test]
+
+ruby "2.2.0"
